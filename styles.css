@@ -1,0 +1,41 @@
+.post {
+  background-color: white;
+  width: 450px;
+  height: 590px;
+  margin: auto;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+body{
+    background-color: gray;
+
+}
+.top{
+    display: flex;
+    justify-content: flex-start flex-center;
+}
+.dots{
+   float:right;
+   margin-left: 76%;
+}
+.fa-html5{
+    display: inline-block;
+
+}
+.text{
+    display:inline-block
+}
+.img{
+    width: 450px;
+    height: 380px;
+    margin: 0 auto;
+
+}
+.fa-heart-o,.fa-comment-o,.fa-paper-plane-o,.fa-bookmark-o{
+    font-size: 30px;
+
+}
+.fa-bookmark-o{
+    float:right;
+
+}
